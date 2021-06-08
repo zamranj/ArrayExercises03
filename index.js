@@ -16,4 +16,5 @@ cargoHold.splice(4,1);
 console.log(cargoHold);
 //c) Replace the elements at indexes 2 - 4 with the items ‘cat’, ‘fob’, and ‘string cheese’.
 cargoHold.splice(2,3,"cat","fob","string cheese");
+
 console.log(cargoHold);
